@@ -7,6 +7,7 @@ Staging area lets to choose the files to be committed instead of committing all 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+By using staging area we can only commit the files that we want to commit instead of committing the changes made on all files in the working directory, thereby allowing logical change per commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
