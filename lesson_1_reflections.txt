@@ -1,0 +1,40 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+The diff tool split the document into sections and displayed the sections next to each other. This makes it easy to compare the text in it and spot the bug.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+By having the entire history of the file, you can compare the current versions to previous versions and can revert back to the previous versions if necessary.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+We can better decide when to upload a change rather than it getting uploaded when we have not finished the peice of work. For example, if you commit an incomplete code it would not complile and create problems.
+Manual commit helps in logical seperation of work therby improving the readability of different versions of the files. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+Saving multiple files at once is very helpful when the files are inter-related or change has to be made that spans across multiple files. 
+On the other hand if the file does not depend on any other file then it is better to save each file seperately.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log displays all the changes made on the file since it was created with their commit message. This helps to know and understand the changes by their commit messages.
+Git diff is used to compare versions of the same file or the commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+You can be more confident to make changes that could break something because you will have an option to look back at the changes you have made previously and revert back to them in case the code breaks.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I would like to write a hello world program in JAVA and make changes to it to understand the process of Git.
+
+
+
+
