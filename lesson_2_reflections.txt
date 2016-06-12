@@ -11,6 +11,8 @@ By using staging area we can only commit the files that we want to commit instea
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches would be very helpful when you want to create an experimental change that you may or may not include in the final project. Example: Developing a game in 2 different languages(english and telugu) 
+Branches help by compartmentalize your new changes. They help in creating 2 differnet seperate versions which can be merged later when a clear decision is made on the new changes.
 
 How do the diagrams help you visualize the branch structure?
 
