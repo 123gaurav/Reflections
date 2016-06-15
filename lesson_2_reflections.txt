@@ -19,6 +19,7 @@ The diagrams show the parent of each commit there by easily helping us to backtr
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The result of merging two branches is to combine the changes made to one branch when a feature or a branch is completed. The merged commit should point to the main branch after the merge, hence we represnt in the diagram as the branch merged into main branch or master.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
