@@ -15,6 +15,7 @@ Branches would be very helpful when you want to create an experimental change th
 Branches help by compartmentalize your new changes. They help in creating 2 differnet seperate versions which can be merged later when a clear decision is made on the new changes.
 
 How do the diagrams help you visualize the branch structure?
+The diagrams show the parent of each commit there by easily helping us to backtrack to the initial commit and also helping us to find out the commits that are unreachable. It also helps us to know the braches in the repository and their current states. 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
