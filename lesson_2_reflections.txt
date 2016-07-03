@@ -19,8 +19,9 @@ The diagrams show the parent of each commit there by easily helping us to backtr
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-The result of merging two branches is to combine the changes made to one branch when a feature or a branch is completed. The merged commit should point to the main branch after the merge, hence we represnt in the diagram as the branch merged into main branch or master.
+The result of merging two branches is to combine the changes made to one branch when a feature or a branch is completed. The merge command merges the branch given as argument to the current checked out branch. Now the new merged state is labelled with the current checked out branch. Diagrammtic representation helps to easily recognize when the different branches have megrged and the differnet changes made in different branches before merge.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+Automatic merging helps to easily merge changes that are made to two different files. But, if a single file is changed in two different branches, then it is manually merged to include only the changes that are correct. There by eliminating failures to the code.
 
