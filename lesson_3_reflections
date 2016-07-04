@@ -6,3 +6,8 @@ I would use a remote repository for the following reasons:
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 There might be changes in the local repository that have not been completed yet. If Git is allowed ot pull changes automatically, then the changes would be lost. So, manual pull helps to save the changes made locally and sync the remote changes.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork: This is used to copy other users repository on to your Git remote server. This is done to re-use others repository when you do not have permission to make changes to their repository.
+Clone: It is used to create a copy of you remote repository on the local system. It can also be used to create a copy of local repository in a different location on the local system. It is used to modify repository locally.
+Branch: It is used to create a new feature/collaborate with others.   
