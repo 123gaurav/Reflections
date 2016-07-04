@@ -14,3 +14,12 @@ Branch: It is used to create a new feature/collaborate with others.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 This will helpful for a collabrative project. Suppose there are different people working on the project and one of them makes changes to it an pushes to the remote, then the state of the remote would have changed. But local copy of my project would have the state of the remote different. So, it would help in incorporating others changes before you incorporate your change.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Collaboration without GitHub can be done by using cloud storage like Google docs but t would be harder to work on the same file. Each use should be working on different file. If the users work on the same file then they should speak to each other before making the change to the actual file.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+1) When you are not sure of the changes you make and want others opinion on them
+2) When you want to create a new feature
+3) When you want to collaborate with others
+This apporach gives helps you to incorporate others changes that have been done simultaneously in a easier way.
